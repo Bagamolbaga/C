@@ -257,7 +257,7 @@ int main() {
 		b = 0;
 		a = 0;
 	}
-	printf_s("--> %d %d", a, b);
+	printf_s("-----> %d %d", a, b);
 	
 	_getch();
 	return 0;
